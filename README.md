@@ -14,9 +14,8 @@ A financial analytics dashboard built with Streamlit for analyzing stock perform
 
 Python • Streamlit • Pandas • Plotly • yFinance • Prophet
 
-## 🌐Demo
-
-[Streamlit Cloud Link]
+## Demo
+https://stockpulse-analytics-jfvrtywgwgt6yorybdxuy9.streamlit.app/
 
 ## 📸 Dashboard Preview
 
